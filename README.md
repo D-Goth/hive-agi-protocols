@@ -3,6 +3,7 @@
 ![Status](https://img.shields.io/badge/Version-2.3-gold)
 ![License](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)
 ![Focus](https://img.shields.io/badge/Scope-AGI%20Governance-emerald)
+![Link](https://img.shields.io/badge/v2.3-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
 
 > **"Que Hive ne serve jamais à dominer, mais à protéger."**
 
