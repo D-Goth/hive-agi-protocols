@@ -11,7 +11,7 @@ Le Projet Hive (Charte, Nomenclature et Protocoles) est mis à disposition selon
 
 ## ⚠️ Selon les conditions suivantes :
 
-* **Attribution** — Vous devez créditer le projet (Loïc HERAUDEAU / Black-Lab.fr), intégrer un lien vers la licence et indiquer si des modifications ont été effectuées.
+* **Attribution** — Vous devez créditer le projet (Loïc HERAUDEAU / D-Goth - Black-Lab.fr), intégrer un lien vers la licence et indiquer si des modifications ont été effectuées.
 * **Pas d’Utilisation Commerciale** — Vous n'êtes pas autorisé à faire un usage commercial de ce matériel, tout ou partie, ou des dérivés de celui-ci.
 * **Partage dans les Mêmes Conditions** — Dans le cas où vous effectuez un remix, une transformation ou une création à partir du matériel composant l'œuvre originale, vous devez diffuser l'œuvre résultante sous la même licence que l'originale.
 
@@ -42,7 +42,7 @@ The Hive Project (Charter, Nomenclature, and Protocols) is made available under 
 
 ## ⚠️ Under the following conditions:
 
-* **Attribution** — You must give appropriate credit (Loïc HERAUDEAU / Black-Lab.fr), provide a link to the license, and indicate if changes were made.
+* **Attribution** — You must give appropriate credit (Loïc HERAUDEAU / D-Goth - Black-Lab.fr), provide a link to the license, and indicate if changes were made.
 * **Non-Commercial** — You may not use the material for commercial purposes, in whole or in part, or any derivatives thereof.
 * **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
