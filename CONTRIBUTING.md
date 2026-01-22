@@ -27,7 +27,7 @@ The Integrity Clause and Respect for the Protective Purpose (present in the mani
    Aucune contribution ne peut servir ou faciliter une utilisation contraire à la protection sans domination (neutralité politique/idéologique active, résilience aux manipulations, préservation de l’individualité et de la dignité).
 
 3. **Traçabilité et attribution morale**  
-   Toute adaptation, extension ou réutilisation doit conserver une mention explicite de l’origine (Projet Hive – Loïc HERAUDEAU / Black-Lab.fr), de la version de la Charte utilisée, et de la Clause d’Intégrité.
+   Toute adaptation, extension ou réutilisation doit conserver une mention explicite de l’origine (Projet Hive – Loïc HERAUDEAU / D-Goth - Black-Lab.fr), de la version de la Charte utilisée, et de la Clause d’Intégrité.
 
 4. **Interdiction de dénaturation**  
    Sont explicitement refusées les propositions qui :  
@@ -48,7 +48,7 @@ The Integrity Clause and Respect for the Protective Purpose (present in the mani
    No contribution may serve or facilitate any use contrary to protection without domination (active political/ideological neutrality, resilience to manipulation, preservation of individuality and dignity).
 
 3. **Traceability and moral attribution**  
-   Any adaptation, extension or reuse must retain an explicit mention of the origin (Hive Project – Loïc HERAUDEAU / Black-Lab.fr), the Charter version used, and the Integrity Clause.
+   Any adaptation, extension or reuse must retain an explicit mention of the origin (Hive Project – Loïc HERAUDEAU / D-Goth - Black-Lab.fr), the Charter version used, and the Integrity Clause.
 
 4. **Prohibition of denaturation**  
    Proposals are explicitly refused if they:  
