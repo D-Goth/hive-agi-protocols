@@ -1,7 +1,7 @@
 # 🐝 Projet HIVE : Vers une Intelligence Synthétique Éthique et Protectrice
 
 ![Status](https://img.shields.io/badge/Version-2.3-gold)
-![License](<img width="109" height="18" alt="image" src="https://github.com/user-attachments/assets/052b3119-c853-4d8a-a274-34bbe70bd949" />)
+![License](https://black-lab.fr/wp-content/uploads/2026/01/4.png)
 ![Focus](https://img.shields.io/badge/Scope-AGI%20Governance-emerald)
 ![Link](https://img.shields.io/badge/v2.3-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
 
