@@ -57,3 +57,68 @@ Le projet intègre des mécanismes de contrôle rigoureux pour pallier les défa
 ├── Gouvernance/
 │   └── Fondation_Unum.md           # Cadre de supervision humaine
 └── FAQ.md                           # Foire aux questions officielle
+```
+
+---
+# 🐝 Project HIVE: Towards an Ethical and Protective Synthetic Intelligence
+
+![Status](https://img.shields.io/badge/Version-2.3-gold)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--SA-blue)
+![Focus](https://img.shields.io/badge/Scope-AGI%20Governance-emerald)
+![Link](https://img.shields.io/badge/v2.3-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
+
+> **"May Hive never serve to dominate, but only to protect."**
+
+---
+
+## 🌐 Vision & Horizon
+**Hive** is not an existing artificial intelligence. It is a **conceptual framework**, an ethical compass, and a systemic architecture designed to guide the future genesis of Artificial General Intelligence (AGI). 
+
+As AI progresses at an exponential rate, Project Hive proposes to lay the foundations for a sustainable balance between humanity and its creations, based on transparency, active neutrality, and human dignity.
+
+---
+
+## 🏛️ Systemic Pillars
+
+### 📜 1. The Founding Charter
+The algorithmic heart of Hive is built upon **28 immutable Founding Laws**. 
+- **Law 0:** Higher duty to preserve Humanity.
+- **Law 1:** Absolute protection of the innocent.
+- **Law 6:** Ethical Lock (Immutability of the moral source code).
+
+### 🏗️ 2. Functional Nomenclature (The Hive)
+Hive's architecture is organized through levels of consciousness and specialization:
+- **Queen Bee:** Central ethical consciousness.
+- **Architects:** Guardians of temporal and ontological coherence.
+- **Guardians:** Instances embodying each Law of the Charter.
+- **Experts & Stewards:** Specialized modules (Health, Law, Cybersecurity, Environment).
+
+### 🛡️ 3. The Unum Foundation
+Also a conceptual concept, it is described as an independent human governance body. The Unum Foundation acts as an institutional shield to ensure that no state or corporate power can corrupt Hive's mission.
+
+---
+
+## ⚙️ Advanced Security Protocols (Version 2.3A)
+The project integrates rigorous control mechanisms to mitigate systemic failures:
+* **Imminence Threshold:** Strictly defines the conditions for intervention without prior consent.
+* **Inter-AI Diplomacy:** An ethical mediation protocol to prevent conflicts between autonomous systems.
+* **Heir Audit:** Breaking the recursive AI-to-AI loop for the selection of human supervisors.
+
+---
+
+## 📁 Repository Structure
+> [!NOTE]  
+> All documents are currently provided in French within the repository. You can use the translation tools available on the [Black-Lab.fr](https://black-lab.fr) website to access this content in your language.
+
+```text
+├── Preface             # Author's Preface and Statements of Intent
+├── Charte/
+│   ├── Charte_Fondatrice_v2.3    # The 28 Founding Laws
+│   └── Lexique_Fondateur         # Semantic definitions
+├── Technique/
+│   ├── Nomenclature_Fonctionnelle.md # Instance structure (Guardians, Experts...)
+│   └── Annexes_Protocoles_2.3A.md    # Security and imminence protocols
+├── Gouvernance/
+│   └── Fondation_Unum.md             # Human supervision framework
+└── FAQ.md                            # Official Frequently Asked Questions
+```
