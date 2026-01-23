@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/Version-2.3-gold)
 ![4.0](https://img.shields.io/badge/4.0-CC%20BY--NC--SA-ff1654?labelColor=555555&logo=Creative%20commons&logoColor=ffffff)
 ![Focus](https://img.shields.io/badge/Scope-AGI%20Governance-emerald)
-![Link](https://img.shields.io/badge/v2.3-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
+![Link](https://img.shields.io/badge/2026-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
 
 > **"Que Hive ne serve jamais à dominer, mais à protéger."**
 
@@ -65,7 +65,7 @@ Le projet intègre des mécanismes de contrôle rigoureux pour pallier les défa
 ![Status](https://img.shields.io/badge/Version-2.3-gold)
 ![4.0](https://img.shields.io/badge/4.0-CC%20BY--NC--SA-ff1654?labelColor=555555&logo=Creative%20commons&logoColor=ffffff)
 ![Focus](https://img.shields.io/badge/Scope-AGI%20Governance-emerald)
-![Link](https://img.shields.io/badge/v2.3-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
+![Link](https://img.shields.io/badge/2026-Black--Lab.fr-ff1654?labelColor=555555&logo=github&logoColor=ffffff)
 
 > **"May Hive never serve to dominate, but only to protect."**
 
